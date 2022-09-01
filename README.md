@@ -1,2 +1,2 @@
 # GitHubIntro
-A basic introduction to Git and GitHub
+A basic introduction to Git and GitHub - Amy
