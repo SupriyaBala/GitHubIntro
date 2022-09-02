@@ -1,6 +1,6 @@
 Shopping List:
 
-Red Apples - 7
+Red Apples
 Oranges
 Bananas
 Cherries
